@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderSync", "FolderSync\FolderSync.csproj", "{A5A4551E-085F-4787-B7C4-6444B52CEB6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{416D58A1-A41E-4F20-B68E-70050347C3CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A5A4551E-085F-4787-B7C4-6444B52CEB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5A4551E-085F-4787-B7C4-6444B52CEB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5A4551E-085F-4787-B7C4-6444B52CEB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416D58A1-A41E-4F20-B68E-70050347C3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416D58A1-A41E-4F20-B68E-70050347C3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416D58A1-A41E-4F20-B68E-70050347C3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416D58A1-A41E-4F20-B68E-70050347C3CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
